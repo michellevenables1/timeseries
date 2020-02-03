@@ -1,5 +1,5 @@
 # Time Series Project
 
-February 2020 
+February 2020
 
-- in progress
+- In progress
